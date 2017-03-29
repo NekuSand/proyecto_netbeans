@@ -18,7 +18,7 @@ public class CODE_repositorio {
         // TODO code application logic here
         
         int i = 0;
-        int j = 0;
+        int j = 5;
                 
     }
     
