@@ -17,7 +17,8 @@ public class CODE_repositorio {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        linea nueva añadida
+        int i = 0;
+        int j = 0;
                 
     }
     
